@@ -1,5 +1,15 @@
-# 💫 About Me:
-Basic Verilog RTL design<br><br>VLSI projects like FIFO, UART, FSM<br><br>embedded & IoT based projects<br><br>Practicing C / C++ for embedded systems<br><br> I’m looking to collaborate on:<br><br>VLSI projects<br><br>Verilog / SystemVerilog based designs<br><br>Embedded systems & IoT projects<br><br>Open-source electronics projects<br><br>I’m looking for help with:<br><br>SystemVerilog verification<br><br>ASIC & VLSI design flow<br><br>Embedded firmware development<br><br>I’m currently learning:<br><br>SystemVerilog basics<br><br>FIFO (sync & async)<br><br>Embedded C<br><br>Microcontrollers (8051 / 8086 basics)<br><br>IoT system integration<br><br> Ask me about:<br><br>Digital Electronics<br><br>Verilog basics<br><br>FSM, UART, FIFO<br><br>Embedded C<br><br>8051 / 8086 ALP<br><br>IoT project basics
+## Hi 👋, I'm Khush Shah  
+
+🎓 B.Tech ECE student at DDU  
+🔧 Aspiring VLSI Engineer  
+
+- Working on Verilog RTL design (FIFO, UART, FSM)  
+- Learning SystemVerilog, ASIC & VLSI design basics  
+- Experience with Embedded C, C++, 8051/8086 & IoT  
+- Open to collaborate on VLSI & embedded projects  
+
+⚡ Interested in turning digital theory into practical RTL designs.
+
 
 
 # 💻 Tech Stack:

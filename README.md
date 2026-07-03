@@ -5,7 +5,10 @@ ECE student at Dharmsinh Desai University, focused on VLSI and Embedded Systems,
 
 
 # 💻 Tech Stack:
-C,C++,Sensor Interfacing,8051 Microcontroller,8086Microprocessor,Verilog,Fundamentals of Systemverilog,Digital Electronics and its Fundamentals.
+Programming: C/C++
+Digital Design: Verilog • SystemVerilog • Digital Electronics
+Embedded: 8051 • 8086 
+Automation: PLC • HMI • Industrial Automation
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khushshah129-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=khushshah129-ctrl&theme=dark&hide_border=false)<br/>
